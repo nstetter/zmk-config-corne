@@ -29,6 +29,8 @@
 
 &mt {
     tapping-term-ms = <200>;
+    quick-tap-ms = <150>;
+    flavor = "balanced";
 };
 
 &lt {
@@ -38,9 +40,9 @@
     // For example enter-enter-hold, will output multiple enter while you
     // keep holding the key.
     // But holding enter without double tapping, will activate the layer.
-     quick-tap-ms = <150>;
+    quick-tap-ms = <150>;
 
-     flavor = "balanced";
+    flavor = "balanced";
 };
 
 ZMK_LAYER(colemak_layer,
