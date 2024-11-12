@@ -79,7 +79,7 @@ layers:
   - '2'
   - '3'
   - '0'
-  - ''
+  - '&bootloader'
   - {t: ▽, type: trans}
   - DELETE
   - ''
@@ -111,7 +111,7 @@ layers:
   - '&'
   - '*'
   - ''
-  - ''
+  - '&bootloader'
   - ''
   - CUT
   - COPY
