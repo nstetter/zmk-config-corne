@@ -113,10 +113,10 @@ layers:
   - ''
   - '&bootloader'
   - ''
-  - CUT
-  - COPY
-  - '&mkp MCLK'
-  - PASTE
+  - Gui+ X
+  - Gui+ C
+  - Gui+ V
+  - ''
   - ''
   - F1
   - F2
